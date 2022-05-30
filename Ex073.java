@@ -14,7 +14,7 @@
             boolean naoTerminar = true;
             int codigo;
             int quantidade;
-            int total = 0;
+            Double total = 0;
             String output = "";
 
 
